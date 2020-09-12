@@ -7,10 +7,10 @@ This is my Rock Paper Scissor game where the user can click any of the three but
 ![RPSGame](rpsimages/game1.JPG "RPSGame")
 
 # Player Wins
-![RPSGame](rpsimages/game2.JPG "Win")
+![RPSGame](rpsimages/game4.JPG "Win")
 
 # Player Loses
-![RPSGame](rpsimages/game4.JPG "Lose")
+![RPSGame](rpsimages/game2.JPG "Lose")
 
 # Tie between player and computer
 ![RPSGame](rpsimages/game3.JPG "Tie")
